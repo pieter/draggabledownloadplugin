@@ -230,6 +230,12 @@
 				GCC_PREFIX_HEADER = DraggableDownload_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Bundles";
+				OTHER_LDFLAGS = (
+					"-undefined",
+					suppress,
+					"-undefined",
+					dynamic_lookup,
+				);
 				PRODUCT_NAME = DraggableDownload;
 				WRAPPER_EXTENSION = bundle;
 			};
