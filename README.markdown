@@ -11,7 +11,8 @@ It uses SIMBL to hack into Safari
 
 ## Can I download a binary?
 
-Not really, you can drop me an email at frimmirf@gmail.com if you want one though.
+Try this link: http://frim.frim.nl/DraggableDownload.bundle.zip . No
+guarantees though.
 
 ## Is there a license?
 
